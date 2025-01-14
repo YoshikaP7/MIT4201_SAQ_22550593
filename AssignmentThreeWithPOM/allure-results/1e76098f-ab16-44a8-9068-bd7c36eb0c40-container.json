@@ -1,0 +1,1 @@
+{"uuid":"1e76098f-ab16-44a8-9068-bd7c36eb0c40","name":"AssignmentThreeWithPOMJenkins","children":["dbbd0c7b-c55c-4987-a179-2faed7280e07"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1736838214938,"stop":1736838219228}],"afters":[],"start":1736838214935,"stop":1736838249367}
